@@ -17,6 +17,9 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import django from "./tech/django.png";
+import photoshop from "./tech/photoshop.png";
+import illustrator from "./tech/illustrator.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
@@ -30,6 +33,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import appleproject from "./appleproject.png";
+import urbanshop from "./urbanshop.png";
+import tak_hero from "./tak_hero.png";
 
 export {
   logo,
@@ -44,6 +50,9 @@ export {
   css,
   docker,
   figma,
+  illustrator,
+  photoshop,
+  django,
   git,
   html,
   javascript,
@@ -61,4 +70,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  appleproject,
+  urbanshop,
+  tak_hero
 };
